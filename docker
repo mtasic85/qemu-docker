@@ -1,0 +1,3 @@
+#!/bin/bash
+ssh -tt root@localhost -p 60022 docker $@
+
